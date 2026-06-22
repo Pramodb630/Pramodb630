@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 
-I’m a data-driven professional with **4+ years of experience in ETL Testing** and **3+ years as a Business Analyst**, specializing in validating complex data pipelines, optimizing data accuracy, and translating business requirements into actionable insights.  
+I’m a data-driven professional with **5+ years of experience in ETL Testing** and **6+ years as a Business Analyst**, specializing in validating complex data pipelines, optimizing data accuracy, and translating business requirements into actionable insights.  
 
 I have designed and developed **Python-based automation frameworks** for **File-to-Database** and **Database-to-Database** validation, enabling seamless ETL verification through automated SQL query execution and result comparison. These frameworks generate detailed test reports, significantly reducing manual effort and improving efficiency.  
 
@@ -42,10 +42,10 @@ With **8+ years of experience as a stock market trader and investor**, I bring a
 
 ### 💡 Highlights  
 
-✅ 4+ years of ETL Testing experience across major clients — *NYC Public Schools, Fifth Third Bank, Dominos, Thermo Fisher, Centene, USAA, Pluto TV, Credit Acceptance*  
+✅ 5+ years of ETL Testing experience across major clients — *NYC Public Schools, Fifth Third Bank, Dominos, Thermo Fisher, Centene, USAA, Pluto TV, Credit Acceptance*  
 ✅ Designed Python automation frameworks for File-to-DB and DB-to-DB validation  
 ✅ Strong SQL expertise in data validation, duplicate checks, and transformation rule testing  
-✅ 3+ years as a Business Analyst — experience in requirements gathering, stakeholder discussions, and report building  
+✅ 6+ years as a Business Analyst — experience in requirements gathering, stakeholder discussions, and report building  
 ✅ 8+ years as a Stock Market Trader — strong data interpretation, pattern analysis, and decision-making skills  
 ✅ Experienced in Power BI dashboards and Excel data automation  
 
